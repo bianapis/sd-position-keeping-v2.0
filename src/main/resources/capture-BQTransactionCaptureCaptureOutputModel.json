@@ -1,0 +1,11 @@
+{
+  "transactionCaptureCaptureRecordReference" : "TCCRR703548",
+  "transactionCaptureCaptureActionTaskReference" : "TCCATR752091",
+  "transactionCaptureCaptureActionTaskRecord" : {},
+  "captureResponseRecord" : {},
+  "transactionCaptureInstanceRecord" : {
+    "postingDescription" : "postingDescription",
+    "postingValueDate" : "09-22-2018",
+    "postingTransaction" : "postingTransaction"
+  }
+}

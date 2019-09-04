@@ -1,0 +1,24 @@
+{
+  "financialPositionLogInstanceStatus" : "financialPositionLogInstanceStatus",
+  "financialPositionLogInitiateActionRecord" : {},
+  "financialPositionLogInitiateActionReference" : "FPLIAR784425",
+  "financialPositionLogInstanceReference" : "FPLIR777223",
+  "cRFinancialPositionLogInstanceRecord" : {
+    "amountBlock" : {
+      "dateType" : {
+        "date" : "09-22-2018"
+      }
+    },
+    "interestApplicationRecord" : {
+      "interestTransaction" : {
+        "transactionInterestCharge" : "USD 250",
+        "transactionRateType" : "transactionRateType",
+        "transactionDescription" : "transactionDescription"
+      }
+    },
+    "managedPositionLimits" : {
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "status" : "status"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "financialPositionLogRetrieveActionTaskRecord" : {},
+  "financialPositionLogRetrieveActionTaskReference" : "FPLRATR793460",
+  "cRFinancialPositionLogInstanceRecord" : {
+    "productInstanceReference" : "727666",
+    "amountBlock" : {
+      "amount" : "USD 250",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "priority" : "priority",
+      "amountBlockType" : "amountBlockType"
+    },
+    "initiationDate" : "09-22-2018",
+    "customerReference" : "743818",
+    "interestApplicationRecord" : {
+      "interestTransaction" : {
+        "transactionInterestCharge" : "USD 250",
+        "transactionRateType" : "transactionRateType",
+        "transactionDescription" : "transactionDescription"
+      }
+    },
+    "managedPositionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings",
+      "positionLimitType" : "positionLimitType",
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "counterpartyReference" : "783863",
+    "transactionLogType" : "transactionLogType",
+    "baseCurrency" : "USD",
+    "status" : "status"
+  },
+  "financialPositionLogInstanceAnalysis" : {
+    "financialPositionLogInstanceAnalysisData" : "financialPositionLogInstanceAnalysisData",
+    "financialPositionLogInstanceAnalysisReportType" : "financialPositionLogInstanceAnalysisReportType",
+    "financialPositionLogInstanceAnalysisReport" : {}
+  },
+  "financialPositionLogRetrieveActionResponse" : "financialPositionLogRetrieveActionResponse",
+  "financialPositionLogInstanceReportRecord" : {
+    "financialPositionLogInstanceReport" : {},
+    "financialPositionLogInstanceReportData" : "financialPositionLogInstanceReportData",
+    "financialPositionLogInstanceReportType" : "financialPositionLogInstanceReportType"
+  }
+}

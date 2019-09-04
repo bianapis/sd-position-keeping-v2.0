@@ -1,0 +1,33 @@
+{
+  "financialPositionLogUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "financialPositionLogUpdateActionTaskReference" : "FPLUATR770494",
+  "cRFinancialPositionLogInstanceRecord" : {
+    "productInstanceReference" : "773617",
+    "amountBlock" : {
+      "amount" : "USD 250",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "priority" : "priority",
+      "amountBlockType" : "amountBlockType"
+    },
+    "initiationDate" : "09-22-2018",
+    "customerReference" : "700388",
+    "interestApplicationRecord" : {
+      "interestTransaction" : {
+        "transactionInterestCharge" : "USD 250",
+        "transactionRateType" : "transactionRateType",
+        "transactionDescription" : "transactionDescription"
+      }
+    },
+    "managedPositionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings",
+      "positionLimitType" : "positionLimitType"
+    },
+    "counterpartyReference" : "760522",
+    "transactionLogType" : "transactionLogType",
+    "baseCurrency" : "USD",
+    "status" : "status"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "transactionCaptureRetrieveActionTaskRecord" : {},
+  "transactionCaptureRetrieveActionResponse" : "transactionCaptureRetrieveActionResponse",
+  "transactionCaptureInstanceReport" : {
+    "transactionCaptureInstanceReportType" : "transactionCaptureInstanceReportType",
+    "transactionCaptureInstanceReport" : {},
+    "transactionCaptureInstanceReportRecord" : {},
+    "transactionCaptureInstanceReportParameters" : "transactionCaptureInstanceReportParameters"
+  },
+  "transactionCaptureRetrieveActionTaskReference" : "TCRATR779838",
+  "transactionCaptureInstanceAnalysis" : {
+    "transactionCaptureInstanceAnalysisReportType" : "transactionCaptureInstanceAnalysisReportType",
+    "transactionCaptureInstanceAnalysisReport" : {},
+    "transactionCaptureInstanceAnalysisRecord" : {},
+    "transactionCaptureInstanceAnalysisParameters" : "transactionCaptureInstanceAnalysisParameters"
+  },
+  "transactionCaptureInstanceRecord" : {
+    "postingDescription" : "postingDescription",
+    "postingValueDate" : "09-22-2018",
+    "postingTransaction" : "postingTransaction"
+  }
+}
